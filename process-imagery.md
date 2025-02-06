@@ -8,8 +8,6 @@ Load and process imagery into a tileset on Atlas
 
 An imagery file in `.tif` format, and SSH access to the Atlas Flyaway Kit drive.
 
-<!-- to prepare, we'll put Kinshasa UAV GeoTIFF on device already. https://oin-hotosm.s3.amazonaws.com/5b1e6fd42b6a08001185f7bf/0/5b1e6fd42b6a08001185f7c0.tif -->
-
 ### Instructions
 
 ![](assets/images/oam-kinshasa-uav.png)
